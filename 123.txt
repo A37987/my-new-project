@@ -2,4 +2,8 @@ xin chao cao ban
 xin chao a37987
 ok
 hello world
+<<<<<<< HEAD
 ac2
+=======
+ac1
+>>>>>>> e59e5b0c80183a92dba9734cbe40955fed2fce2d
